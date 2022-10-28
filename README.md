@@ -20,7 +20,7 @@ There will be three lectures (3x45 min per lecture) that will cover the followin
 
 **Date** | **Time** | **Main Topics**
 -----|------|------
-14.11.2022 | 13:00 - 16:00 am | Introduction to [Sparse Grids, Adaptive Sparse Grids
+14.11.2022 | 13:00 - 16:00 am | Introduction to [Sparse Grids, Adaptive Sparse Grids]
 (https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook), and [High-dimensional Model Representation](https://github.com/SparseGridsForDynamicEcon/HDMR).
 17.11.2022 | 13:00 - 16:00 am | Introduction to Deep Neural Networks, [Deep Equilibrium Nets](https://github.com/sischei/DeepEquilibriumNets), and Deep Surrogates/[Deep Structural Estimation](https://github.com/DeepSurrogate/OptionPricing).
 21.11.2022 | 13:00 - 16:00 am | Introduction to Gaussian Process Regression and Bayesian Active Learning
