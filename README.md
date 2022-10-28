@@ -18,11 +18,11 @@ in the context of application in macroeconomics, finance, and climate-change eco
 
 There will be three lectures (3x45 min per lecture) that will cover the following topics:
 
-**Lecture 1** | **Date** | **Time** | **Main Topics**
+**Lecture** | **Date** | **Time** | **Main Topics**
 ------|-----|------|------
-[Lecture 1](lectures/lecture_1)| 14.11.2022 | 13:00 - 16:00 | Introduction to [Sparse Grids, Adaptive Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook), and [High-dimensional Model Representation](https://github.com/SparseGridsForDynamicEcon/HDMR).
-[Lecture 2](lectures/lecture_2) | 17.11.2022 | 13:00 - 16:00 | Introduction to Deep Neural Networks, [Deep Equilibrium Nets](https://github.com/sischei/DeepEquilibriumNets), and Deep Surrogates/[Deep Structural Estimation](https://github.com/DeepSurrogate/OptionPricing).
-[Lecture 3](lectures/lecture_3)| 21.11.2022 | 13:00 - 16:00 | Introduction to Gaussian Process Regression and Bayesian Active Learning
+[Lecture 1](lectures/lecture_1)| 14.11.2022 | 13:00 - 16:00 | [Sparse Grids, Adaptive Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook), and [High-dimensional Model Representation](https://github.com/SparseGridsForDynamicEcon/HDMR).
+[Lecture 2](lectures/lecture_2) | 17.11.2022 | 13:00 - 16:00 | Deep Neural Networks, [Deep Equilibrium Nets](https://github.com/sischei/DeepEquilibriumNets), and Deep Surrogates/[Deep Structural Estimation](https://github.com/DeepSurrogate/OptionPricing).
+[Lecture 3](lectures/lecture_3)| 21.11.2022 | 13:00 - 16:00 | Gaussian Process Regression and Bayesian Active Learning
 
 
 ## Prerequisites
