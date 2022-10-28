@@ -16,7 +16,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 
 ## Detailed list of topics of the mini-course
 
-There will be three lectures (3x45 min per lecture) that will cover the following topics:
+There will be three lectures (consisting of 3x45 min per lecture) that will cover the following topics:
 
 **Lecture** | **Date** | **Time** | **Main Topics**
 -----------|-----|------|------
