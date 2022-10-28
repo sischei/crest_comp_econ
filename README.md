@@ -1,7 +1,7 @@
 # Advanced Methods in Computational Economics
 
 This is an mini-course on "Advanced Methods in Computational
-Economics" to solve and estimate dynamic, held from 14.11.2022 - 21.11.2022 at CREST/ENSAE.
+Economics" to solve and estimate dynamic, held from 14.11.2022 - 21.11.2022 at [CREST](https://crest.science/)/[ENSAE](https://www.ensae.fr/en).
 
 
 ## Purpose of the lectures
