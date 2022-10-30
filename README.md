@@ -47,7 +47,7 @@ the task.
 ## Class enrollment on the [Nuvolos Cloud](https://nuvolos.cloud/)
 
 * All lecture materials (slides, codes, and further readings) will be distributed via the [Nuvolos Cloud](https://nuvolos.cloud/).
-* To enroll in this class, please click on this [enrollment key](https://az.nuvolos.cloud/enroll/class/sPzEWqQ3a5Y), and follow the steps.
+* To enroll in this class, please click on this [enrollment key](https://app.nuvolos.cloud/enroll/class/1TU7g4Wz7mk), and follow the steps.
 
 
 ### Lecturer
