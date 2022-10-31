@@ -33,7 +33,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 * [Mathematics for Machine learning](https://mml-book.github.io/) provides a good overview of skills participants are required to be fluent in.
 
 
-### Topics
+## Topics
 
 #### Day 1, Monday, November 14th, 2022 (13.00 - 16.00)
 
