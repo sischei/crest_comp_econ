@@ -35,7 +35,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 
 ## Topics
 
-#### Day 1, Monday, November 14th, 2022 (13.00 - 16.00)
+#### [Day 1](lectures/lecture_1), Monday, November 14th, 2022 (13.00 - 16.00)
 
 * Introduction to [Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook)
 * Introduction to [Adaptive Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook)
