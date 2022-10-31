@@ -93,6 +93,7 @@ that will be graded is a short write-up (4-6 pages maximum), the data set (if
 any), and the code on which the presented results in the report were based. The
 participants will have four weeks time after the course is finished to complete
 the task.
+The participants can work alone, or in teams of two.
 
 
 
