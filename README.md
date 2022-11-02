@@ -70,8 +70,8 @@ in the context of application in macroeconomics, finance, and climate-change eco
 Lectures will be interactive, in a workshop-like style,
 using [Python](http://www.python.org), [scikit learn](https://scikit-learn.org/), [Tensorflow](https://www.tensorflow.org/), and
 [TFP](https://www.tensorflow.org/probability) on [Nuvolos](http://nuvolos.cloud),
-a browser-based complete cloud in which files, datasets, code and applications work together,
-in order to directly implement the introduced methods and algorithms using real data.
+a browser-based cloud infrastructure in which files, datasets, code and applications work together,
+in order to directly implement and experiment with the introduced methods and algorithms.
 
 
 ### Lecturer
