@@ -35,13 +35,13 @@ in the context of application in macroeconomics, finance, and climate-change eco
 
 ## Topics
 
-#### [Day 1](lectures/lecture_1), Monday, November 14th, 2022 (13.00 - 16.00)
+#### [Day 1](lectures/lecture_1), Monday, November 14th, 2022 (13.30 - 16.45; Room 2016)
 
 * Introduction to [Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook)
 * Introduction to [Adaptive Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook)
 * Introduction to [High-dimensional Model Representation](https://github.com/SparseGridsForDynamicEcon/HDMR)
 
-#### [Day 2](lectures/lecture_2), Thursday, November 14th, 2022 (13.00 - 16.00)
+#### [Day 2](lectures/lecture_2), Thursday, November 14th, 2022 (13.30 - 16.45; Room 2016)
 
 * Deep learning basics
 * Multi-layer perceptron
@@ -54,7 +54,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 * [Deep Surrogates/Deep Structural Estimation](https://github.com/DeepSurrogate/OptionPricing)
 * [Deep Equilibrium Nets](https://github.com/sischei/DeepEquilibriumNets)
 
-#### [Day 3](lectures/lecture_3), Monday, November 21st, 2022 (13.00 - 16.00)
+#### [Day 3](lectures/lecture_3), Monday, November 21st, 2022 (13.30 - 16.45; Online)
 * Basics of Gaussian Process Regression
 * Noise-free kernels
 * Kernels with noise
