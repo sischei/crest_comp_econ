@@ -41,7 +41,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 * Introduction to [Adaptive Sparse Grids](https://github.com/SparseGridsForDynamicEcon/SparseGrids_in_econ_handbook)
 * Introduction to [High-dimensional Model Representation](https://github.com/SparseGridsForDynamicEcon/HDMR)
 
-#### [Day 2](lectures/lecture_2), Thursday, November 14th, 2022 (13.30 - 16.45; Room 2016)
+#### [Day 2](lectures/lecture_2), Thursday, November 17th, 2022 (13.30 - 16.45; Room 2016)
 
 * Deep learning basics
 * Multi-layer perceptron
