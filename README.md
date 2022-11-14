@@ -62,7 +62,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 * The curse of dimensionality and how to deal with it (e.g., active subspaces)
 * Gaussian mixture models (unsupervised machine learning)
 * Bayesian active learning
-* Dynamic Programming/optimal control with GPs
+* [Dynamic Programming/optimal control with GPs](https://github.com/GaussianProcessesForDynamicEcon/DynamicIncentiveProblems)
 * An outlook to frontier topics of GPs (Limitations of GPs and "big data"/scalable GPs
 
 
