@@ -64,7 +64,7 @@ in the context of application in macroeconomics, finance, and climate-change eco
 * Bayesian active learning
 * [Dynamic Programming/optimal control with GPs](https://github.com/GaussianProcessesForDynamicEcon/DynamicIncentiveProblems)
 * An outlook to frontier topics of GPs (Limitations of GPs and "big data"/scalable GPs
-
+* [A Gaussian Process Dynamic Programming Code Library](https://github.com/GaussianProcessesForDynamicEcon/DynamicIncentiveProblems)
 
 ### Teaching philosophy
 Lectures will be interactive, in a workshop-like style,
